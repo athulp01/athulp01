@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> I'm a fourth year undergraduate student at National Institute of Calicut, India.😄
+> I'm currently pursuing a undergraduate degree in electronics at National Institute of Calicut, India.😄
 
