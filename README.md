@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > I'm currently pursuing a undergraduate degree in electronics at National Institute of Calicut, India.😄
+\
+\
+![Profile visits](http://web.athulp.tech:8000/dfsd)
 
