@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 > I'm currently pursuing a undergraduate degree in electronics at National Institute of Calicut, India.😄
 \
 \
-![Profile visits](http://web.athulp.tech:8000/athulp01?cacheSeconds=10)
+![Profile visits](http://web.athulp.tech:8000/athulp01)
 
