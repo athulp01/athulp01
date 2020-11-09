@@ -4,4 +4,4 @@
 \
 * I'm currently pursuing undergraduate degree in Electronics and Communication Engineering from National Institute of Technology Calicut.
 * Interested in systems and embedded programming.
-* I write about tech at [blog.athulp.tech](https://blog.athulp.tech)
+* Writes about tech at [blog.athulp.tech](https://blog.athulp.tech)
